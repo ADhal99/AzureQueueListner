@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.cloud.azure.servicebus.namespace",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.azure.servicebus.namespace'"
+  },
+  {
+    "name": "spring.cloud.azure.servicebus.entity-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.azure.servicebus.entity-type'"
+  },
+  {
+    "name": "spring.cloud.azure.servicebus.entity-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.azure.servicebus.entity-name'"
+  },
+  {
+    "name": "azure.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.client-id'"
+  },
+  {
+    "name": "azure.keyvault.url",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.keyvault.url'"
+  },
+  {
+    "name": "azure.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.client-secret'"
+  },
+  {
+    "name": "azure.tenant-id",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.tenant-id'"
+  },
+  {
+    "name": "app.environment.local",
+    "type": "java.lang.String",
+    "description": "A description for 'app.environment.local'"
+  },
+  {
+    "name": "azure.mi.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.mi.client-id'"
+  }
+]}
